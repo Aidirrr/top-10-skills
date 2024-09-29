@@ -9,7 +9,7 @@ The data is sourced from the "1.3M Linkedin Jobs & Skills (2024)" dataset, offer
 ## Features
 
 - Search for any job position
-- Display top skills (5, 10, 20, 30, or 50) for the selected job position
+- Adjustable slider to display top skills (from 5 to 50) for the selected job position
 - Interactive and user-friendly interface
 - Data visualization of skill frequency (optional bar chart)
 
