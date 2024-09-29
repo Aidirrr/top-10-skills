@@ -4,6 +4,10 @@
 
 The Top 10 Skills Analyzer is a Streamlit-based web application that analyzes job postings data to identify the most frequently mentioned skills for specific job positions. This tool provides valuable insights for job seekers, recruiters, and anyone interested in understanding the current job market trends.
 
+<p align="center">
+  <img src="main.png" alt="Main Page" width="75%">
+</p>
+
 The data is sourced from the "1.3M Linkedin Jobs & Skills (2024)" dataset, offering a comprehensive and up-to-date view of the job market.
 
 ## Features
@@ -48,6 +52,11 @@ The data is sourced from the "1.3M Linkedin Jobs & Skills (2024)" dataset, offer
 5. Select the number of top skills you want to see using the buttons.
 
 6. Click "Analyze Skills" to view the results.
+
+<p align="center">
+  <img src="example1.png" alt="Example 1" width="45%">
+  <img src="example1.2.png" alt="Example 1.2" width="45%">
+</p>
 
 ## Data Source
 
